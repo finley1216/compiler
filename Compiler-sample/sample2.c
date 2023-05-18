@@ -16,7 +16,7 @@ int main(void)
    {
       printf("....:");
       scanf("%d",&r);
-   } while(r<=0);
+   } while(r<=:0);
    printf("\n");
    switch (item);
    {
@@ -41,7 +41,7 @@ double volume(int r)/* ....volume()....... */
    return (4/3*PI*r*r*r);
 }
  
-double surface(int r)/* ....surface()........ */
+double surface(int r);/* ....surface()........ */
 {
    return (4*PI*r*r);
 }
